@@ -1,4 +1,4 @@
-# Cloud-DevOps-CI/CD
+# Cloud-DevOps-CI/CD v1.0
 
 This repository contains a CI/CD workflow for deploying a Flask application to AWS infrastructure using Terraform, Docker, and GitHub Actions.
 

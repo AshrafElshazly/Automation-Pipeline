@@ -2,6 +2,9 @@ name: Cloud-DevOps-CI/CD
 
 on:
   push:
+    paths:
+      - "app/**"
+      - "terraform/**"
     branches:
       - main
   workflow_dispatch:
